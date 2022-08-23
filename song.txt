@@ -2,3 +2,7 @@
 2 line
 3 line
 4 line
+<<<<<<< HEAD
+=======
+5 line from visual code
+>>>>>>> 7405db70bb15af219644ddfca81ed0bfa672341d
